@@ -1,4 +1,4 @@
-# To-Do-List
+# To-Do
 TaskMaster - Your Ultimate To-Do List Manager
 Boost your productivity and organize your life with TaskMaster, the powerful and intuitive To-Do List App designed for seamless task management. Developed using cutting-edge technologies like HTML, CSS, JavaScript, jQuery, AJAX, PHP, and Bootstrap, TaskMaster helps you stay on top of your goals in style.
 
